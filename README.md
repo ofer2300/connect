@@ -1,5 +1,20 @@
 # Ara 3D Connect 🌿
 
+<div dir="rtl" align="right">
+
+## דוח ביקורת המאגר — 22.09.2026
+
+**[לקריאת הדוח המלא בעברית](docs/repository-audit/2026-09-22/README.he.md)** · [דוח HTML להורדה](docs/repository-audit/2026-09-22/connect-audit.he.html)
+
+הביקורת בגרסה `642e4b9` מצאה מאגר תכנון ותיעוד לתיאום BIM, ללא קוד להפעלה, בדיקות או חבילת התקנה. נבדקו 4 קבצים, 20 נקודות שמירה ו־22 גרסאות תוכן ייחודיות. הדוח כולל ממצאים, מקורות ומפת כיסוי עם פערי גישה מפורשים.
+
+[מלאי קבצים](docs/repository-audit/2026-09-22/inventory.json) · [צילום מצב הביקורת](docs/repository-audit/2026-09-22/snapshot.json) · [ראיות השלמה](docs/repository-audit/2026-09-22/followup.json)
+
+הדוח הוא צילום מצב היסטורי; הוספתו למאגר אינה משנה את הגרסה שעליה התבססה הביקורת.
+
+</div>
+
+
 _Connect your BIM data, don't convert it!_ 
 
 ## Tracking, Reviewing, and Versioning Tools for BIM built on Git 

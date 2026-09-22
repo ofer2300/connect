@@ -1,0 +1,166 @@
+{
+  "labels": {
+    "exit": 0,
+    "data": [
+      [
+        {
+          "id": 12179691114,
+          "node_id": "LA_kwDOUZVzHs8AAAAC1fdWag",
+          "url": "https://api.github.com/repos/ofer2300/connect/labels/accessibility",
+          "name": "accessibility",
+          "color": "f143ab",
+          "default": true,
+          "description": "Barrier affecting people with disabilities",
+          "archived_at": null,
+          "archived_by": null
+        },
+        {
+          "id": 12179691102,
+          "node_id": "LA_kwDOUZVzHs8AAAAC1fdWXg",
+          "url": "https://api.github.com/repos/ofer2300/connect/labels/bug",
+          "name": "bug",
+          "color": "d73a4a",
+          "default": true,
+          "description": "Something isn't working",
+          "archived_at": null,
+          "archived_by": null
+        },
+        {
+          "id": 12179691126,
+          "node_id": "LA_kwDOUZVzHs8AAAAC1fdWdg",
+          "url": "https://api.github.com/repos/ofer2300/connect/labels/documentation",
+          "name": "documentation",
+          "color": "0075ca",
+          "default": true,
+          "description": "Improvements or additions to documentation",
+          "archived_at": null,
+          "archived_by": null
+        },
+        {
+          "id": 12179691141,
+          "node_id": "LA_kwDOUZVzHs8AAAAC1fdWhQ",
+          "url": "https://api.github.com/repos/ofer2300/connect/labels/duplicate",
+          "name": "duplicate",
+          "color": "cfd3d7",
+          "default": true,
+          "description": "This issue or pull request already exists",
+          "archived_at": null,
+          "archived_by": null
+        },
+        {
+          "id": 12179691156,
+          "node_id": "LA_kwDOUZVzHs8AAAAC1fdWlA",
+          "url": "https://api.github.com/repos/ofer2300/connect/labels/enhancement",
+          "name": "enhancement",
+          "color": "a2eeef",
+          "default": true,
+          "description": "New feature or request",
+          "archived_at": null,
+          "archived_by": null
+        },
+        {
+          "id": 12179691186,
+          "node_id": "LA_kwDOUZVzHs8AAAAC1fdWsg",
+          "url": "https://api.github.com/repos/ofer2300/connect/labels/good%20first%20issue",
+          "name": "good first issue",
+          "color": "7057ff",
+          "default": true,
+          "description": "Good for newcomers",
+          "archived_at": null,
+          "archived_by": null
+        },
+        {
+          "id": 12179691170,
+          "node_id": "LA_kwDOUZVzHs8AAAAC1fdWog",
+          "url": "https://api.github.com/repos/ofer2300/connect/labels/help%20wanted",
+          "name": "help wanted",
+          "color": "008672",
+          "default": true,
+          "description": "Extra attention is needed",
+          "archived_at": null,
+          "archived_by": null
+        },
+        {
+          "id": 12179691202,
+          "node_id": "LA_kwDOUZVzHs8AAAAC1fdWwg",
+          "url": "https://api.github.com/repos/ofer2300/connect/labels/invalid",
+          "name": "invalid",
+          "color": "e4e669",
+          "default": true,
+          "description": "This doesn't seem right",
+          "archived_at": null,
+          "archived_by": null
+        },
+        {
+          "id": 12179691224,
+          "node_id": "LA_kwDOUZVzHs8AAAAC1fdW2A",
+          "url": "https://api.github.com/repos/ofer2300/connect/labels/question",
+          "name": "question",
+          "color": "d876e3",
+          "default": true,
+          "description": "Further information is requested",
+          "archived_at": null,
+          "archived_by": null
+        },
+        {
+          "id": 12179691241,
+          "node_id": "LA_kwDOUZVzHs8AAAAC1fdW6Q",
+          "url": "https://api.github.com/repos/ofer2300/connect/labels/wontfix",
+          "name": "wontfix",
+          "color": "ffffff",
+          "default": true,
+          "description": "This will not be worked on",
+          "archived_at": null,
+          "archived_by": null
+        }
+      ]
+    ]
+  },
+  "milestones": {
+    "exit": 0,
+    "data": [
+      []
+    ]
+  },
+  "commit_comments": {
+    "exit": 0,
+    "data": [
+      []
+    ]
+  },
+  "dependencies": {
+    "exit": 1,
+    "data": [
+      {
+        "message": "Not Found",
+        "documentation_url": "https://docs.github.com/rest",
+        "status": "404"
+      }
+    ]
+  },
+  "packages": {
+    "exit": 1,
+    "data": [
+      {
+        "message": "You need at least read:packages scope to list packages.",
+        "documentation_url": "https://docs.github.com/rest/packages/packages#list-packages-for-a-user",
+        "status": "403"
+      }
+    ]
+  },
+  "projects": {
+    "exit": 1,
+    "data": {
+      "state": "unavailable",
+      "reason": "read:project scope required"
+    }
+  },
+  "wiki": {
+    "exit": 128,
+    "data": {
+      "state": "unavailable",
+      "reason": "Repository not found; empty content not established"
+    }
+  },
+  "time": "2026-09-22T02:25:20.026239+00:00"
+}
